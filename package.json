@@ -1,0 +1,17 @@
+{
+  "name": "ArLet v2",
+  "version": "2.0.0",
+  "description": "Discord cryptocurrency bot.",
+  "main": "index.js",
+  "author": "Alexcitten",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^14.2.0",
+    "fs": "^0.0.1-security"
+  }
+}
